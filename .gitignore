@@ -1,2 +1,3 @@
 /.venv
 /xpath_reference.txt
+__pycache__
